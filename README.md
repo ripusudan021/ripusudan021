@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing<br>B.Tech in Computer Science and Engineering (Cybersecurity specialization) — currently in 5th semester.<br><br>👯 I’m looking to collaborate on<br>Cybersecurity-focused web applications, and full-stack projects.<br><br>🤝 I’m looking for help with<br>Advanced cybersecurity practices, and secure code deployment.<br><br>🌱 I’m currently learning<br>Web development (frontend + backend), and cybersecurity fundamentals.<br><br>⚡ Fun fact<br>I can spend hours debugging code but still get excited every time the app finally works 😄.
+🔭 I’m currently pursuing<br>B.Tech in Computer Science and Engineering (Cybersecurity specialization) — currently in 6th semester.<br><br>👯 I’m looking to collaborate on<br>Cybersecurity-focused web applications, and full-stack projects.<br><br>🤝 I’m looking for help with<br>Advanced cybersecurity practices, and secure code deployment.<br><br>🌱 I’m currently learning<br>Web development (frontend + backend), and cybersecurity fundamentals.<br><br>⚡ Fun fact<br>I can spend hours debugging code but still get excited every time the app finally works 😄.
 
 
 ## 🌐 Socials:
